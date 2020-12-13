@@ -1,4 +1,4 @@
-#There are 2 simple projects.
+# There are 2 simple projects.
 
 
 1.yazılım yapımı1-2
