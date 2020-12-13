@@ -1,14 +1,12 @@
-#yazılım yapımı1-2
-
-#C shap üzerinde tasarlanmış bloc oyunu
-
-Map boyutu 5 ve 9 arası seçim yapılabilen kare blok oyunu
-
-ÇALIŞMA MANTIĞI
-<br/>yazılım yapımı=1-2
-5*5 lik mapte oyuncu bir kutu seçer ve seçilen kutu bir daha tıklanmaya kapatılırken kutunun etrafında oyuncuya tıklayabileceği kutular renkli bir şekilde gösterilir.oyuncunun yaptığı adım sayısı oyuncuya gösterilir.Tüm mapteki kutuları bitiren oyuncu isterse yeni oyun başlatabilir eğer oyuncu mapteki tüm kutuları bitiremezse game over olur oyuncunun başka hamle yapmasına izin verilmez ve istege bağlı yeni oyun veye oyun bitirme seçenekleri oyuncuya sunulur.
+#There are 2 simple projects.
 
 
-YazilimYapimiProje
+1.yazılım yapımı1-2
 
-#scrum tablosu uygulaması
+-horse step game
+-3 map sizes
+
+2.YazilimYapimiProje
+
+-scrum board example
+-use of drag and drop
